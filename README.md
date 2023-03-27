@@ -8,5 +8,4 @@
 
 <video src="https://github.com/An3sha/Drum-Kit/blob/master/project-demo.mp4"></video>
 
-https://user-images.githubusercontent.com/66352293/227878387-03ca00f0-240e-408e-bcfa-98e8bde8b141.mov
 
