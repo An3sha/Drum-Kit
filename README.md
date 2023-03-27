@@ -1,1 +1,2 @@
-<h1> Drum-Kit <h1>
+# Drum-Kit 
+![Screenshot of project](images.jpg)
